@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GdsCode</string>
+    <string name="ceshi">ceshi</string>
+
+    <string name="content">
+         两个自定义类都继承LinearLayout，实现嵌套滑动的子类和父类接口，然后布局文件肯定就是想的那样了：
+         两个自定义类都继承LinearLayout，实现嵌套滑动的子类和父类接口，然后布局文件肯定就是想的那样了：
+         两个自定义类都继承LinearLayout，实现嵌套滑动的子类和父类接口，然后布局文件肯定就是想的那样了：
+         两个自定义类都继承LinearLayout，实现嵌套滑动的子类和父类接口，然后布局文件肯定就是想的那样了：
+         两个自定义类都继承LinearLayout，实现嵌套滑动的子类和父类接口，然后布局文件肯定就是想的那样了：
+         两个自定义类都继承LinearLayout，实现嵌套滑动的子类和父类接口，然后布局文件肯定就是想的那样了：
+         两个自定义类都继承LinearLayout，实现嵌套滑动的子类和父类接口，然后布局文件肯定就是想的那样了：
+    </string>
+</resources>

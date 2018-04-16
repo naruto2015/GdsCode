@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.gds.app.ui.HeartLineActivity">
+
+
+    <Button
+        android:id="@+id/insert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/query"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    
+    <com.gds.app.view.HeartRateLine
+        android:layout_width="match_parent"
+        android:layout_height="100dp" />
+
+
+    <com.gds.app.view.SinView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        app:amplitude="400dp"
+        app:frequency="300"
+        app:lineColor="@color/colorAccent"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        />
+
+
+
+</LinearLayout>
